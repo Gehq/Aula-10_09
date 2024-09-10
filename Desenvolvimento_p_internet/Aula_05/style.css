@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: antiquewhite;
+}
+h2{
+    color: antiquewhite;
+}
+#container p{
+    color: blue;
+}
+
+#container{
+
+    background-color: rgb(240,100%,50%);
+}
+
+p{  
+    background-color: hsl(120, 100%, 75);
+}
+
+p:hover{
+    background-color: brown;
+}
+/*
+#000000
+
+#ffffff
+*/

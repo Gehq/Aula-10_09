@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    background-color: aquamarine; 
+}
+#titi{
+    color: blue;
+}
+.c1{
+    color: green;
+}
+
+.c2{
+    color: red;
+}
+
+.c3{
+    color:blue;
+}
+
+.b1{
+    background-color: black;
+}
+.b2{
+    background-color: white;
+}
+
+
